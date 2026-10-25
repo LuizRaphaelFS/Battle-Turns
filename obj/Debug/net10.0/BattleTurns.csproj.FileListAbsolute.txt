@@ -1,0 +1,14 @@
+C:\Users\Pichau\BattleTurns\bin\Debug\net10.0\BattleTurns.exe
+C:\Users\Pichau\BattleTurns\bin\Debug\net10.0\BattleTurns.deps.json
+C:\Users\Pichau\BattleTurns\bin\Debug\net10.0\BattleTurns.runtimeconfig.json
+C:\Users\Pichau\BattleTurns\bin\Debug\net10.0\BattleTurns.dll
+C:\Users\Pichau\BattleTurns\bin\Debug\net10.0\BattleTurns.pdb
+C:\Users\Pichau\BattleTurns\obj\Debug\net10.0\BattleTurns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\BattleTurns\obj\Debug\net10.0\BattleTurns.AssemblyInfoInputs.cache
+C:\Users\Pichau\BattleTurns\obj\Debug\net10.0\BattleTurns.AssemblyInfo.cs
+C:\Users\Pichau\BattleTurns\obj\Debug\net10.0\BattleTurns.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\BattleTurns\obj\Debug\net10.0\BattleTurns.dll
+C:\Users\Pichau\BattleTurns\obj\Debug\net10.0\refint\BattleTurns.dll
+C:\Users\Pichau\BattleTurns\obj\Debug\net10.0\BattleTurns.pdb
+C:\Users\Pichau\BattleTurns\obj\Debug\net10.0\BattleTurns.genruntimeconfig.cache
+C:\Users\Pichau\BattleTurns\obj\Debug\net10.0\ref\BattleTurns.dll
